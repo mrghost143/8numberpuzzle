@@ -246,4 +246,4 @@ function shuffleBoard(data) {
 }
 
     //   shuffleBoard(data);
-      console.log(dats)
+      console.log(data)
